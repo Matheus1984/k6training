@@ -1,0 +1,1 @@
+export let param_url= 'https://www.google.com/'
